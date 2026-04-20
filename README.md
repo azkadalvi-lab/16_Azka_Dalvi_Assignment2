@@ -1,4 +1,4 @@
-#  Assignment Title
+#  Sentiment Analysis on Smartphone Tweets
 
 ## (1) Problem Statement
 Social media platforms like Twitter contain large amounts of user-generated content expressing opinions about products such as smartphones. Manually analyzing these opinions is time-consuming and inefficient. Therefore, there is a need to automatically classify tweets into sentiment categories (positive, negative, neutral) using machine learning techniques.
