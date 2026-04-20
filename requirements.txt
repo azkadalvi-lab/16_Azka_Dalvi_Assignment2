@@ -1,7 +1,5 @@
-numpy
 pandas
+re
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
-statsmodels
-jupyter
